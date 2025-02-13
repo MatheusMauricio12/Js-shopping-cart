@@ -1,4 +1,4 @@
-This is just another simple project that I've coded the JS's part just in order to train myself. 
+This is just another simple project that I've coded the JS's part just in order to train myself. It's just a simple shopping cart.
 
 Thanks Alura for providing me the HTML and CSS that was mostly done already!
 
